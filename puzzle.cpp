@@ -2,7 +2,7 @@
 #include<cstdlib>
 #include<ctime>
 #include<list>
-#include"problem4.h"
+#include"puzzle.h"
 
 using namespace std;
 
