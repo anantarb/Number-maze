@@ -20,6 +20,7 @@ class PuzzleBoard{
         bool getResult();
         /* Returns false if game is not over yet, true if puzzle was solved */
         friend std::ostream &operator<<(std::ostream &os, PuzzleBoard const &m);
+        /* overloading operator << */ 
         int solve();
         /* returns the minimum number of moves needed to solve the puzzle, and -1 if it’s not solvable. */
 };
