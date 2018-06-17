@@ -1,5 +1,5 @@
 #include<iostream>
-#include"problem4.h"
+#include"puzzle.h"
 
 using namespace std;
 
